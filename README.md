@@ -1,3 +1,8 @@
+# Blog Description
+
+* I am still learning how to build a personal blog and modify it by myself.
+* This blog theme is made by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io).
+
 # About this Cool Concise Jekyll Blog Theme 🤘🤘🤘
 
 [![GitHub stars](https://img.shields.io/github/stars/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/stargazers)
