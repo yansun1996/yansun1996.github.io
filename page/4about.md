@@ -15,17 +15,11 @@ type: page
 
 * 2017-Present: Master of Science
     * Department of Electrical and Computer Engineering (ECE), UCSD
-
 * 2013-2017: Bachelor of Engineering (Double Major)
-
     * Major one: Materials Science and Engineering
-
         * School of Materials Science and Engineering, SJTU
-
     * Major two: Computer Technology and Application
-
         * School of Electronic Information and Electrical Engineeering, SJTU
-        
 * 2010-2013: High School Student
 
 ## Contact me
