@@ -11,13 +11,21 @@ type: page
 
 ## About me
 
-<iframe src="https://githubbadge.appspot.com/yansun1996" style="border: 0;height: 142px;width: 600px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://githubbadge.appspot.com/yansun1996" style="border: 0;height: 142px;width: 700px;overflow: hidden;" frameBorder="0"></iframe>
 
 * 2017-Present: Master of Science
-    * Department of Electrical and Computer Engineering (ECE), UC San Diego.
+    * Department of Electrical and Computer Engineering (ECE), UCSD
+
 * 2013-2017: Bachelor of Engineering (Double Major)
-    * Major one: Materials Science and Engineering, School of Materials Science and Engineering
-    * Major two: Computer Technology and Application, School of Electronic Information and Electrical Engineeering
+
+    * Major one: Materials Science and Engineering
+
+        * School of Materials Science and Engineering, SJTU
+
+    * Major two: Computer Technology and Application
+
+        * School of Electronic Information and Electrical Engineeering, SJTU
+        
 * 2010-2013: High School Student
 
 ## Contact me
