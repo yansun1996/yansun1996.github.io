@@ -11,11 +11,14 @@ type: page
 
 ## About me
 
-<iframe src="https://githubbadge.appspot.com/yansun1996" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://githubbadge.appspot.com/yansun1996" style="border: 0;height: 142px;width: 600px;overflow: hidden;" frameBorder="0"></iframe>
 
-* 2017-Present Master Student
-* 2013-2017 Undergraduate Student
-* 2010-2013 High School Student
+* 2017-Present: Master of Science
+    * Department of Electrical and Computer Engineering (ECE), UC San Diego.
+* 2013-2017: Bachelor of Engineering (Double Major)
+    * Major one: Materials Science and Engineering, School of Materials Science and Engineering
+    * Major two: Computer Technology and Application, School of Electronic Information and Electrical Engineeering
+* 2010-2013: High School Student
 
 ## Contact me
 
@@ -25,6 +28,7 @@ type: page
 * [知乎](https://www.zhihu.com/people/huo-huo-huo-81)
 * [Facebook](https://www.facebook.com/triplefire.yan.sun)
 * [Twitter](https://twitter.com/sunyanfred)
+* [LinkedIn](https://www.linkedin.com/in/yansun1996/)
 
 ## About this site
 
