@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-I'm going to add some useful collections here...
+I'm going to add more useful collections here...
 
 ## Comments
 
