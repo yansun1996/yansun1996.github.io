@@ -14,20 +14,20 @@ type: page
 <iframe src="https://githubbadge.appspot.com/yansun1996" style="border: 0;height: 142px;width: 700px;overflow: hidden;" frameBorder="0"></iframe>
 
 * 2017-Present: Master of Science
-    * Department of Electrical and Computer Engineering (ECE), UCSD
+    * Major: Machine Learning and Data Science, ECE
+    * University of California, San Diego (UCSD)
+
 * 2013-2017: Bachelor of Engineering (Double Major)
     * Major one: Materials Science and Engineering
-        * School of Materials Science and Engineering, SJTU
     * Major two: Computer Technology and Application
-        * School of Electronic Information and Electrical Engineeering, SJTU
-* 2010-2013: High School Student
+    * Shanghai Jiao Tong University (SJTU)
 
 ## Contact me
 
 * GitHub：[yansun1996](https://github.com/yansun1996)
 * email：sunyanfred@gmail.com
 * [Weibo](http://weibo.com/5132629547)
-* [知乎](https://www.zhihu.com/people/huo-huo-huo-81)
+* [Zhihu](https://www.zhihu.com/people/huo-huo-huo-81)
 * [Facebook](https://www.facebook.com/triplefire.yan.sun)
 * [Twitter](https://twitter.com/sunyanfred)
 * [LinkedIn](https://www.linkedin.com/in/yansun1996/)
