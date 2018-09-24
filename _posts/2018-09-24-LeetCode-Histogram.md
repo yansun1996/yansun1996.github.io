@@ -23,8 +23,8 @@ Note: You may not slant the container and n is at least 2.
 ```
 <center>
 
+![avatar](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/17/question_11.jpg)
 
-![alt text](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/17/question_11.jpg "Container With Most Water")
 </center>
 We can use two pointer solution to solve this problem.
 
@@ -63,7 +63,7 @@ Given n non-negative integers representing an elevation map where the width of e
 
 <center>
 
-![alt text](http://www.leetcode.com/static/images/problemset/rainwatertrap.png "Trapping Rain Water")
+![avatar](http://www.leetcode.com/static/images/problemset/rainwatertrap.png)
 
 </center>
 
@@ -101,7 +101,7 @@ Given n non-negative integers representing the histogram's bar height where the 
 
 <center>
 
-![alt text](https://leetcode.com/static/images/problemset/histogram.png "Largest Rectangle in Histogram-1")
+![avatar](https://leetcode.com/static/images/problemset/histogram.png)
 
 </center>
 
@@ -111,7 +111,7 @@ Above is a histogram where width of each bar is 1, given height = [2,1,5,6,2,3].
 
 <center>
 
-![alt text](https://leetcode.com/static/images/problemset/histogram_area.png "Largest Rectangle in Histogram-2")
+![avatar](https://leetcode.com/static/images/problemset/histogram_area.png)
 
 </center>
 
