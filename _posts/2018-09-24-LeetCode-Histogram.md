@@ -22,11 +22,13 @@ Given n non-negative integers a1, a2, ..., an , where each represents a point at
 Note: You may not slant the container and n is at least 2.
 ```
 
-<div style="align: center">
-<img src="https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/17/question_11.jpg"/>
-</div>
+<center>
+![](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/17/question_11.jpg)
+</center>
 
-We can use two pointer solution to solve this problem. Set two pointers at the beginning and end of the array and use a variable to **save the width(distance)** between two pointers for the convience of calculating current area. Initially, the width should be ```len(height)-1```. Then start to decrease the width. Each time we get a new width, update the maximum area by
+We can use two pointer solution to solve this problem.
+
+ Set two pointers at the beginning and end of the array and use a variable to **save the width(distance)** between two pointers for the convience of calculating current area. Initially, the width should be ```len(height)-1```. Then start to decrease the width. Each time we get a new width, update the maximum area by
 
 
 <center>
@@ -59,8 +61,9 @@ class Solution(object):
 Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
 ```
 
-<div style="align: center">
-<img src="http://www.leetcode.com/static/images/problemset/rainwatertrap.png"/>
+<center>
+![](http://www.leetcode.com/static/images/problemset/rainwatertrap.png)
+</center>
 
 ```
 The above elevation map is represented by array [0,1,0,2,1,0,1,3,2,1,2,1]. In this case, 6 units of rain water (blue section) are being trapped.
@@ -94,18 +97,17 @@ class Solution(object):
 Given n non-negative integers representing the histogram's bar height where the width of each bar is 1, find the area of largest rectangle in the histogram.
 ```
 
-<div style="align: center">
-<img src="https://leetcode.com/static/images/problemset/histogram.png"/>
-</div>
+<center>
+![](https://leetcode.com/static/images/problemset/histogram.png)
+</center>
 
 ```
 Above is a histogram where width of each bar is 1, given height = [2,1,5,6,2,3].
 ```
 
-<div style="align: center">
-<img src="https://leetcode.com/static/images/problemset/histogram_area.png"/>
-</div>
-
+<center>
+![](https://leetcode.com/static/images/problemset/histogram_area.png)
+</center>
 
 ```
 The largest rectangle is shown in the shaded area, which has area = 10 unit.
