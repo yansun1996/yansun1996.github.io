@@ -13,10 +13,10 @@ tags:  LeetCode-Array LeetCode-HashTable LeetCode-TwoPointers
 
 
 
-# 1 Intro
+# 1. Intro
 LeetCode has several N-Sum related problems, including 2Sum, 3Sum, 4Sum and some problems with different input data structures. Here I make a summary about how to solve these problems.
 
-# 2 Two Sum
+# 2. Two Sum
 [LeetCode 1 - Two Sum](https://leetcode.com/problems/two-sum/) is the first problem in LeetCode. We need to find the index of two numbers that they add up to the target value. There are two basic solutions.
 
 #### 2-1 Hash Table
@@ -65,7 +65,7 @@ class Solution:
         return
 ```
 
-# 3 Three Sum
+# 3. Three Sum
 
 [3Sum problem](https://leetcode.com/problems/3sum/) requires solution to find 3 elements in array that can add up to target value. **Different from 2Sum problem, the return array should be the value of each element instead of the oringinal index of each element**. So Two pointers solution is preferred here and the basic logic behind the solution is similar to what it is in the solution for 2Sum.
 
@@ -101,7 +101,7 @@ class Solution(object):
         return ans
 ```
 
-# 4 NSum
+# 4. NSum
 
 The solution for NSum related problem uses two pointers method and recursion plan. The following code is the sample solution for [4Sum](https://leetcode.com/problems/4sum).
 
