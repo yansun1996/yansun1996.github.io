@@ -30,7 +30,7 @@ We can use two pointer solution to solve this problem.
 
 <center>
 
-**ans = max(ans, width * min(height[pointer1], height[pointer2]))**
+ans = max(ans, width * min(height[pointer1], height[pointer2]))
 
 </center>
 
