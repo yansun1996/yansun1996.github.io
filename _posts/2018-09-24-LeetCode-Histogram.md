@@ -91,7 +91,7 @@ class Solution(object):
         return water
 ```
 
-# 4. Largest Rectangle in Histogram
+# 4. Largest Rectangle in Hist
 
 ```
 Given n non-negative integers representing the histogram's bar height where the width of each bar is 1, find the area of largest rectangle in the histogram.
