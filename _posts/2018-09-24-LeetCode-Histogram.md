@@ -2,7 +2,7 @@
 layout: post
 title:  "[Leetcode] Histogram"
 categories: Leetcode Algorithm
-tags:  LeetCode-Array LeetCode-TwoPointers LeetCode-Stack
+tags:  LC-Array LC-TwoPointers LC-Stack
 ---
 
 * content

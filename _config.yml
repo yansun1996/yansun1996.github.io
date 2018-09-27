@@ -7,7 +7,7 @@
 
 # Site settings
 title: Yan Sun
-brief-intro: Master Student
+brief-intro: M.S. Machine Learning and Data Science, ECE @ UCSD
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yansun1996.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username: huo-huo-huo-81
 linkedIn_username: yansun1996
 dribbble_username:
 
-description_footer: Personal Blog！
+description_footer: Blog for study notes.
 
 # comments
 # two ways to comment, only choose one, and use your own short name
