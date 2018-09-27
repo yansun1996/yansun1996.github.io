@@ -2,7 +2,7 @@
 layout: post
 title:  "[Leetcode] N-Sum"
 categories: Leetcode Algorithm
-tags:  LeetCode-Array LeetCode-HashTable LeetCode-TwoPointers
+tags:  LC-Array LC-HashTable LC-TwoPointers
 ---
 
 * content
