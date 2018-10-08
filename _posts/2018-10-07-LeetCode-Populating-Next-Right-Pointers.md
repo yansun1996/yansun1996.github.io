@@ -16,7 +16,7 @@ tags:  LC-Tree LC-BFS
 # 1. Intro
 For a binary tree, in addition to left child and right child value. There are LeetCode problems asking about extra relationship among the nodes in the tree, including [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) and [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii). These problems ask you to make the corresponded connection for all the nodes in the tree.
 
-# 2. Populating Next Right Pointers
+# 2. Populate Next Right Pointers
 Given a binary tree like:
 ```
 struct TreeLinkNode {
@@ -90,7 +90,7 @@ If ```node.next``` does not exist, it means that all nodes in this level have be
 
 When ```node.left``` is empty, it means that the whole process completed.
 
-# 3. Populating Next Right Pointers II
+# 3. Populate Next Right Pointers II
 
 Given a binary tree
 
