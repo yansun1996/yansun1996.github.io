@@ -34,6 +34,8 @@ From the top-left corner, there are a total of 3 ways to reach the bottom-right 
 3. Down -> Right -> Right
 ```
 
+### 2.1 DP Solution
+
 A very simple dynamic programming solution could be used for this problem. The problem states that the robot could only move bottom or right. In this way, the first row and the very left column could be reached only in one way.
 
 As for the other area in the matrix, the number of ways to reach them is defined by ```dp[i][j] = dp[i-1][j] + [i][j-1]```. In the end, we could get the results by the number of ways to reach the bottom-right area, which is ```dp[-1][-1]```.
@@ -51,6 +53,20 @@ class Solution(object):
             for j in range(1, n):
                 dp[i][j] = dp[i-1][j] + dp[i][j-1]
         return dp[-1][-1]
+```
+
+### 2.2 Math Solution
+The robot need to do ```m-1``` down moves and ```n-1``` right moves to reach the bottom-right area. If we consider it in this way, then it is a combination problem.
+
+```python
+class Solution(object):
+    def uniquePaths(self, m, n):
+        """
+        :type m: int
+        :type n: int
+        :rtype: int
+        """
+        return math.factorial(m+n-2)/(math.factorial(m-1)*math.factorial(n-1))
 ```
 
 # 3. Unique Paths II
