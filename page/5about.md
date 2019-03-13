@@ -11,7 +11,7 @@ type: page
 
 ## About me
 
-<iframe src="https://githubbadge.appspot.com/yansun1996" style="border: 0;height: 142px;width: 700px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://githubbadge.appspot.com/yansun1996" style="border: 0;height: 142px;width: 700px;overflow: hidden;" frameBorder="0" align="middle"></iframe>
 
 * 2017-Present: Master of Science
     * Major: Machine Learning and Data Science, ECE
